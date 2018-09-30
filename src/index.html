@@ -1,0 +1,42 @@
+<!-- layout.nunjucks -->
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+
+  <!-- You write code for this content block in another file -->
+  
+<h1>This is the index page</h1>
+
+
+<nav>
+  <a href="index.html" class=" active ">Home</a>
+  <a href="contact.html" class="">Contact</a>
+  <!-- Repeat for about and contact -->
+</nav>
+
+<div class="gallery">
+  <!-- Loops through "images" array -->
+	
+	<div class="gallery__item">
+		<h2>Image one alt text</h2>
+	    <img src="img/01.png" alt="Image one alt text">
+	</div>
+  	
+	<div class="gallery__item">
+		<h2>Image two alt text</h2>
+	    <img src="img/02.png" alt="Image two alt text">
+	</div>
+  	
+</div>
+
+
+  <script src="js/jquery.min.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+*, *:after, *:before {
+  box-sizing: border-box; }
+
+body {
+  font-family: Helvetica, sans-serif; }
+
+.active {
+  color: red; }
+
+/*# sourceMappingURL=data:application/json;charset=utf8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbImFwcC5zY3NzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBO0VBQ0MsdUJBQXNCLEVBQ3RCOztBQUNEO0VBQ0MsbUNBQWtDLEVBQ2xDOztBQUNEO0VBQ0MsV0FBVSxFQUNWIiwiZmlsZSI6ImFwcC5jc3MiLCJzb3VyY2VzQ29udGVudCI6WyIqLCAqOmFmdGVyLCAqOmJlZm9yZSB7XG5cdGJveC1zaXppbmc6IGJvcmRlci1ib3g7XG59XG5ib2R5IHtcblx0Zm9udC1mYW1pbHk6IEhlbHZldGljYSwgc2Fucy1zZXJpZjtcbn1cbi5hY3RpdmUge1xuXHRjb2xvcjogcmVkO1xufSJdfQ== */
