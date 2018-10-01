@@ -7,3 +7,10 @@ body {
 .active {
 	color: red;
 }
+.gallery {
+	display: flex;
+	> div {
+		text-align: center;
+		flex-basis: 50%;
+	}
+}
